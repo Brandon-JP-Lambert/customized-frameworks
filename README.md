@@ -24,7 +24,7 @@ Based on my goal(s) and requirement(s), describe 3 customized frameworks for [ta
 Next, write 3 more creative customized frameworks.
 ```
 
-## Sample Prompt
+## Sample Prompt (Ideation, College students)
 
 ```
 Goal(s): 
@@ -40,19 +40,9 @@ Based on my goal(s) and requirement(s), describe 3 customized frameworks for ide
 Next, write three more creative customized frameworks. 
 ```
 
-## Sample Output
+## Sample Output (Ideation, College students)
 
 Below are example frameworks generated using the sample prompt. These can serve as inspiration for your own customized frameworks.
-
-## Usage
-
-To use the prompt with Generative AI tools like ChatGPT, follow these steps:
-
-1. Copy the entire **Prompt Template** section.
-2. Replace the placeholders `[learners]`, `[target skills]`, and `[method(s)]` with your specific values.
-3. Add your desired requirement(s) by replacing `[Use]` and `[description of requirement]` accordingly.
-4. Paste the modified template into the input area of your Generative AI tool.
-5. After receiving the output from the AI, you can review and adjust the generated frameworks as needed.
 
 ### Framework 1: SCAMPER Technique
 
@@ -118,7 +108,14 @@ The Idea Box is a creative problem-solving tool that encourages participants to 
 5. Discuss and evaluate the generated ideas.
 
 ## Usage
-This repository is designed to provide prompt templates that can be edited to fit any topic of interest. Simply replace the prompts with your desired topic and generate contextually appropriate content using generative AI tools like ChatGPT.
+
+To use the prompt with Generative AI tools like ChatGPT, follow these steps:
+
+1. Copy the entire **Prompt Template** section.
+2. Replace the placeholders `[learners]`, `[target skills]`, and `[method(s)]` with your specific values.
+3. Add your desired requirement(s) by replacing `[Use]` and `[description of requirement]` accordingly.
+4. Paste the modified template into the input area of your Generative AI tool.
+5. After receiving the output from the AI, you can review and adjust the generated frameworks as needed.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
